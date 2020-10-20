@@ -1,6 +1,9 @@
 
 [![StylexTV's github stats](https://github-readme-stats.vercel.app/api?username=StylexTV)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/StylexTV/GSigns">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=StylexTV&repo=GSigns" />
+</a>
 
 
 
