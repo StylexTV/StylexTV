@@ -1,32 +1,8 @@
+### Hi there 👋
 
-```
-█████████████████████████████████████████████████
-█─▄▄▄▄█─▄─▄─█▄─█─▄█▄─▄███▄─▄▄─█▄─▀─▄█─▄─▄─█▄─█─▄█
-█▄▄▄▄─███─████▄─▄███─██▀██─▄█▀██▀─▀████─████▄▀▄██
-▀▄▄▄▄▄▀▀▄▄▄▀▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄█▄▄▀▀▄▄▄▀▀▀▀▄▀▀▀
-```
+I create Software, APIs, Backend Systems & Frontend Designs.
 
-[![StylexTV's github stats](https://github-readme-stats.vercel.app/api?username=StylexTV)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StylexTV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/StylexTV/GSigns">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=StylexTV&repo=GSigns" />
-</a>
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/stylextv)
-
-<!--
-**StylexTV/StylexTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a spigot plugin called [GSigns](https://github.com/StylexTV/GSigns/) and various open-source projects
+⚡ Fun fact: Never sleeps 💤
+😄 Pronouns: he/him
+📫 How to reach me: StylexTV#5755 on [Discord](https://discord.com/)
