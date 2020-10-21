@@ -14,6 +14,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=StylexTV&repo=GSigns" />
 </a>
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/stylextv)
 
 <!--
 **StylexTV/StylexTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
