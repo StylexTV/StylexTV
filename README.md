@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank">- 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)</a>
-  - 🌱 I’m currently learning **HTML, CSS and JavaScript**
+  <p>- 🌱 I’m currently learning **HTML, CSS and JavaScript**</p>
 
 - 📫 How to reach me **`StylexTV#5755` on [Discord](https://discord.com/)**
 
