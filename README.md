@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm StylexTV</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h1 align="left">Hi 👋, I'm StylexTV</h1>
+<h3 align="left">A passionate developer from Germany</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=stylextv&row=1&column=1&theme=flat&rank=SECRET,SSS,SS,S,AAA" /></a>
 </p>
 
