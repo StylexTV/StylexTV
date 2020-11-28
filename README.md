@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- 📫 How to reach me **`StylexTV#5755` on [Discord](https://discord.com/)**
+- 📫 How to reach me: **`StylexTV#5755` on [Discord](https://discord.com/)**
 
 - ⚡ Fun fact **Never sleeps 💤**
 
