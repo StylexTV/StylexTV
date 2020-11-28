@@ -5,12 +5,16 @@
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank">- 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)</a>
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+  - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **`StylexTV#5755` on [Discord](https://discord.com/)**
 
 - ⚡ Fun fact **Never sleeps 💤**
 </div>
+- 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 📫 How to reach me **`StylexTV#5755` on [Discord](https://discord.com/)**
+- ⚡ Fun fact **Never sleeps 💤**
 
 
 <h3 align="center">Languages and Tools:</h3>
