@@ -22,8 +22,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 💪 Opened PR [#632](https://github.com/frontity/frontity/pull/632) in [frontity/frontity](https://github.com/frontity/frontity)
+1. ❗️ Closed issue [#18](https://github.com/StylexTV/GSigns/issues/18) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
+2. 🗣 Commented on [#18](https://github.com/StylexTV/GSigns/issues/18) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
 3. 💪 Opened PR [#759](https://github.com/callstack/haul/pull/759) in [callstack/haul](https://github.com/callstack/haul)
 4. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 5. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
