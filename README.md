@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm StylexTV</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" style="text-align: center;"><img src="https://github-profile-trophy.vercel.app/?username=stylextv&rank=SECRET,SSS,SS,S,AAA" alt="stylextv" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy" style="justify-content: center;"><img src="https://github-profile-trophy.vercel.app/?username=stylextv&rank=SECRET,SSS,SS,S,AAA" alt="stylextv" /></a>
 
 - 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
 
