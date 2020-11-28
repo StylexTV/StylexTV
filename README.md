@@ -4,6 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stylextv&rank=SECRET,SSS,SS,S,AAA" alt="stylextv" /></a> </p>
 
 <div align="center">
+<p>
 - 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
@@ -11,6 +12,7 @@
 - 📫 How to reach me **`StylexTV#5755` on [Discord](https://discord.com/)**
 
 - ⚡ Fun fact **Never sleeps 💤**
+</p>
 </div>
 - 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
