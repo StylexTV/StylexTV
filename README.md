@@ -4,8 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stylextv&rank=SECRET,SSS,SS,S,AAA" alt="stylextv" /></a> </p>
 
 <div align="center">
-- 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
-
+  <a href="https://www.w3.org/html/" target="_blank">- 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)</a>
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **`StylexTV#5755` on [Discord](https://discord.com/)**
