@@ -10,5 +10,6 @@ I create Software, APIs, Backend Systems & Frontend Designs.
 ---
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
