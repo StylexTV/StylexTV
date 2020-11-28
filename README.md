@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=stylextv&row=2&column=3" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=stylextv&row=2&column=1" /></a>
 </p>
 
 - 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
