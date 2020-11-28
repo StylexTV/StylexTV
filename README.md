@@ -7,4 +7,8 @@ I create Software, APIs, Backend Systems & Frontend Designs.
 😄 Pronouns: he/him  
 📫 How to reach me: `StylexTV#5755` on [Discord](https://discord.com/)
 
+---
+
 <!--START_SECTION:activity-->
+
+---
