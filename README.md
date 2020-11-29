@@ -19,7 +19,8 @@
 
 ---
 
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#8872](https://github.com/timburgan/timburgan/issues/8872) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
@@ -27,4 +28,4 @@
 3. 🗣 Commented on [#18](https://github.com/StylexTV/GSigns/issues/18) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
 <!--END_SECTION:activity-->
 
----
+</details>
