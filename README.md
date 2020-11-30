@@ -23,9 +23,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#123](https://github.com/tritonmc/Triton/issues/123) in [tritonmc/Triton](https://github.com/tritonmc/Triton)
-2. ❗️ Opened issue [#8872](https://github.com/timburgan/timburgan/issues/8872) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Closed issue [#18](https://github.com/StylexTV/GSigns/issues/18) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
+1. ❗️ Closed issue [#17](https://github.com/StylexTV/GSigns/issues/17) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
+2. ❗️ Opened issue [#123](https://github.com/tritonmc/Triton/issues/123) in [tritonmc/Triton](https://github.com/tritonmc/Triton)
+3. ❗️ Opened issue [#8872](https://github.com/timburgan/timburgan/issues/8872) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
