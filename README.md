@@ -23,9 +23,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/StylexTV/GSigns/pull/19) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
-2. 🗣 Commented on [#19](https://github.com/StylexTV/GSigns/issues/19) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
-3. ❗️ Closed issue [#17](https://github.com/StylexTV/GSigns/issues/17) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
+1. 🎉 Merged PR [#2](https://github.com/StylexTV/UltimateHeads/pull/2) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
+2. 🗣 Commented on [#2](https://github.com/StylexTV/UltimateHeads/issues/2) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
+3. 🎉 Merged PR [#1](https://github.com/StylexTV/UltimateHeads/pull/1) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
 <!--END_SECTION:activity-->
 
 </details>
