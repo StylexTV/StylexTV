@@ -5,7 +5,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=stylextv&row=1&column=1&theme=flat&rank=SECRET,SSS,SS,S,AAA" /></a>
 </p>
 
-- 🔭 I’m currently working on [UltimateHeads](https://github.com/StylexTV/UltimateHeads)
+- 🔭 I’m currently working on [Boostio](https://github.com/boostiobot)
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
