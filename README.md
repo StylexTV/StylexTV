@@ -23,9 +23,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/StylexTV/UltimateHeads/issues/5) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
-2. 🎉 Merged PR [#5](https://github.com/StylexTV/UltimateHeads/pull/5) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
-3. ❗️ Opened issue [#3](https://github.com/StylexTV/UltimateHeads/issues/3) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
+1. ❗️ Closed issue [#1](https://github.com/StylexTV/StylexTV/issues/1) in [StylexTV/StylexTV](https://github.com/StylexTV/StylexTV)
+2. ❗️ Opened issue [#1](https://github.com/StylexTV/StylexTV/issues/1) in [StylexTV/StylexTV](https://github.com/StylexTV/StylexTV)
+3. 🗣 Commented on [#6](https://github.com/StylexTV/UltimateHeads/issues/6) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
 <!--END_SECTION:activity-->
 
 </details>
