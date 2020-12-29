@@ -25,7 +25,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/StylexTV/GSigns/issues/20) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
 2. 🗣 Commented on [#20](https://github.com/StylexTV/GSigns/issues/20) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
-3. ❗️ Closed issue [#6](https://github.com/StylexTV/UltimateHeads/issues/6) in [StylexTV/UltimateHeads](https://github.com/StylexTV/UltimateHeads)
+3. 🗣 Commented on [#20](https://github.com/StylexTV/GSigns/issues/20) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
 <!--END_SECTION:activity-->
 
 </details>
