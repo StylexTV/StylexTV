@@ -23,9 +23,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/StylexTV/GSigns/issues/22) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
-2. 🗣 Commented on [#22](https://github.com/StylexTV/GSigns/issues/22) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
-3. 🗣 Commented on [#21](https://github.com/StylexTV/GSigns/issues/21) in [StylexTV/GSigns](https://github.com/StylexTV/GSigns)
 <!--END_SECTION:activity-->
 
 </details>
