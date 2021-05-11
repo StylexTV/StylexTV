@@ -5,7 +5,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alig src="https://github-profile-trophy.vercel.app/?username=stylextv&row=1&column=1&theme=flat&rank=SECRET,SSS,SS,S,AAA" /></a>
 </p>
 
-- 🔭 I’m currently working on [Tune](https://github.com/StylexTV/Tune)
+- 🔭 I’m currently working on [Lila](https://github.com/StylexTV/Lila)
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
