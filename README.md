@@ -23,7 +23,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/SebLague/Chess-AI/issues/6) in [SebLague/Chess-AI](https://github.com/SebLague/Chess-AI)
+1. ❗️ Closed issue [#2](https://github.com/StylexTV/HyCheat/issues/2) in [StylexTV/HyCheat](https://github.com/StylexTV/HyCheat)
 2. 🎉 Merged PR [#2](https://github.com/StylexTV/Bookmark/pull/2) in [StylexTV/Bookmark](https://github.com/StylexTV/Bookmark)
 3. 💪 Opened PR [#2](https://github.com/StylexTV/Bookmark/pull/2) in [StylexTV/Bookmark](https://github.com/StylexTV/Bookmark)
 <!--END_SECTION:activity-->
