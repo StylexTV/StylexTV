@@ -23,9 +23,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/StylexTV/Dwarf/pull/1) in [StylexTV/Dwarf](https://github.com/StylexTV/Dwarf)
-2. 💪 Opened PR [#1](https://github.com/StylexTV/Dwarf/pull/1) in [StylexTV/Dwarf](https://github.com/StylexTV/Dwarf)
-3. ❗️ Closed issue [#2](https://github.com/StylexTV/HyCheat/issues/2) in [StylexTV/HyCheat](https://github.com/StylexTV/HyCheat)
+1. 🎉 Merged PR [#1](https://github.com/StylexTV/LYNX/pull/1) in [StylexTV/LYNX](https://github.com/StylexTV/LYNX)
+2. 💪 Opened PR [#1](https://github.com/StylexTV/LYNX/pull/1) in [StylexTV/LYNX](https://github.com/StylexTV/LYNX)
+3. 🎉 Merged PR [#1](https://github.com/StylexTV/Dwarf/pull/1) in [StylexTV/Dwarf](https://github.com/StylexTV/Dwarf)
 <!--END_SECTION:activity-->
 
 </details>
